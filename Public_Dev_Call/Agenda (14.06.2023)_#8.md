@@ -31,4 +31,4 @@ Gno Team Topics
 * Event and emit in gno [853](https://github.com/gnolang/gno/pull/853) (anarcher)
 ----- this is something discussed for Gno contributors
 * IBC updates 
-* 
+* TODO: ADD MORE UPDATES
