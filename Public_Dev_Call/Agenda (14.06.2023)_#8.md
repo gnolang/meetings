@@ -17,15 +17,16 @@ Welcome to new team members! 🥳
 
 Gno Contributor Updates
 * Onbloc
-* Teritori
+* Teritori: [journey](https://github.com/gnolang/hackerspace/issues/7)
 * Sage
-* Zack
+* Zack: [journey](https://github.com/gnolang/hackerspace/issues/2)
 * Gno IDE
 
 Gno Team Topics
 
 
 * Excited to announce [Gno-by-Example](https://gno-by-example.com/) (Antonio and Miloš)
+* Feedback: Block data sync on test3 [issue 863](https://github.com/gnolang/gno/issues/863) (dongwon)
 * Updates: Testnet 4 update and multinode testnet experimentation issue [871](https://github.com/gnolang/gno/pull/871) (Moul and team)
 * Banker module issue [875](https://github.com/gnolang/gno/pull/875) (r3v4s)
 * Event and emit in gno [853](https://github.com/gnolang/gno/pull/853) (anarcher)
@@ -37,6 +38,8 @@ Gno Team Topics
 * Discussion on the infinite loop problem [issue 835](https://github.com/gnolang/gno/issues/835) (Antonio)
 * Gno SDK snapshot (moul)
 * Next week, Gno.land Funding and Grants Program launches there will be more details coming in this [repo](https://github.com/gnolang/ecosystem-fund-grants)
+
+
 
 Follow up/actions:
 
