@@ -25,10 +25,19 @@ Gno Contributor Updates
 Gno Team Topics
 
 
-* Testnet 4 update and multinode testnet experimentation issue [871](https://github.com/gnolang/gno/pull/871) (Moul)
+* Excited to announce [Gno-by-Example](https://gno-by-example.com/) (Antonio and Miloš)
+* Updates: Testnet 4 update and multinode testnet experimentation issue [871](https://github.com/gnolang/gno/pull/871) (Moul and team)
 * Banker module issue [875](https://github.com/gnolang/gno/pull/875) (r3v4s)
-* Pagination issue [883](https://github.com/gnolang/gno/pull/883) (Doozers)
 * Event and emit in gno [853](https://github.com/gnolang/gno/pull/853) (anarcher)
 ----- this is something discussed for Gno contributors
-* IBC updates 
-* TODO: ADD MORE UPDATES
+* IBC updates (Jae)
+* Update: Gnovm: native binding issue [859](https://github.com/gnolang/gno/pull/859) (thehowl)
+* Discussion on Contribuors DAO -- [vision](https://github.com/gnolang/gno/issues/872) (moul) 
+* Discussion on stdlibs/stdshim [issue 892](https://github.com/gnolang/gno/issues/892) (piux2)
+* Discussion on the infinite loop problem [issue 835](https://github.com/gnolang/gno/issues/835) (Antonio)
+* Gno SDK snapshot (moul)
+* Next week, Gno.land Funding and Grants Program launches there will be more details coming in this [repo](https://github.com/gnolang/ecosystem-fund-grants)
+
+Follow up/actions:
+
+
