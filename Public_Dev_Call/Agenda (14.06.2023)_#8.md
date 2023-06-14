@@ -36,7 +36,8 @@ Gno Team Topics
 * Discussion on Contribuors DAO -- [vision](https://github.com/gnolang/gno/issues/872) (moul) 
 * Discussion on stdlibs/stdshim [issue 892](https://github.com/gnolang/gno/issues/892) (piux2)
 * Discussion on the infinite loop problem [issue 835](https://github.com/gnolang/gno/issues/835) (Antonio)
-* Gno SDK snapshot (moul)
+* Discussion on auto load and package sorting [issue 763](https://github.com/gnolang/gno/pull/763) (harryhov)
+* Update: Gno SDK snapshot (moul)
 * Next week, Gno.land Funding and Grants Program launches there will be more details coming in this [repo](https://github.com/gnolang/ecosystem-fund-grants)
 
 
