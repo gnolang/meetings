@@ -17,10 +17,12 @@ Legend:
 - "AiB's Gno tech staff" is the combination of Gno dedicated developers + lead from other AiB tech products + devrels + tokenomics.
 - Core contributors is the combination of the "AiB's Gno tech staff" + notable contributors + tech partners + grantees.
 
-TODO: weekly us staff sync
-TODO: dedicated
-TODO: consider switching all private meetings to public in some way, i.e., by sharing the outcome publicly.
-TODO: use a machine-readable format, then generate this part of the markdown? could allow generating other formats (.ics?) and ease PR reviews.
+TODOs
+- weekly us staff sync
+- review syncs
+- office hours
+- consider switching all private meetings to public in some way, i.e., by sharing the outcome publicly.
+- use a machine-readable format, then generate this part of the markdown? could allow generating other formats (.ics?) and ease PR reviews.
 
 ## Ponctual meetings and events
 
