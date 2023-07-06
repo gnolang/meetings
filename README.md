@@ -8,9 +8,9 @@ Happy collaborating!
 
 | Title                       | Visibility          | Attendees                   | Lead                             | Schedule                                  |
 |-----------------------------|---------------------|-----------------------------|----------------------------------|-------------------------------------------|
-| weekly world staff sync     | private             | AiB's Gno tech staff        | Manfred                          | Mondays; UTC=3pm PST=8am CET=5PM          |
+| weekly world staff sync     | private             | AiB's Gno tech staff        | Manfred (looking for a new lead) | Mondays; UTC=3pm PST=8am CET=5PM          |
 | weekly emea staff sync      | private             | AiB's Gno tech staff (EMEA) | Manfred (looking for a new lead) | Wednesdays; UTC=10am CET=12pm (PST=3am)   |
-| bi-weekly private core sync | private             | Core contributors           | Manfred                          | Wednesdays (1/2); UTC=3pm PST=8am CET=5PM |
+| bi-weekly private core sync | private             | Core contributors           | Manfred (looking for a new lead) | Wednesdays (1/2); UTC=3pm PST=8am CET=5PM |
 | bi-weekly public core sync  | public (live video) | Core contributors           | Michelle                         | Wednesdays (2/2); UTC=3pm PST=8am CET=5PM |
 
 Legend:
