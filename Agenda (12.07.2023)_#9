@@ -1,0 +1,34 @@
+
+
+Description
+Join Gnolang's core tech team and partners for the monthly developer call, a regular sync with Gnolang developers working on the technology and community members interested in the engineering and development discussions. You can find the proposed agenda below, if you have additional technical points to discuss, please add them to this issue.
+
+Date: July 12th at 5pm CEST Dial in details shared with core contributors (if you're interested in joining, and actively contributing to the code base, please reach out).
+
+You can add the Developer Call to your calendar here.
+
+Agenda
+Welcome to new team members! 🥳
+
+Gno Contributor Updates
+
+Onbloc
+Teritori: journey
+Sage
+Zack: journey
+Gno IDE
+Gno Team Topics
+
+Excited to announce Gno-by-Example (Antonio and Miloš)
+Feedback: Block data sync on test3 issue 863 (dongwon)
+Updates: Testnet 4 update and multinode testnet experimentation issue 871 (Moul and team)
+Banker module issue 875 (r3v4s)
+Event and emit in gno 853 (anarcher) ----- this is something discussed for Gno contributors
+IBC updates (Jae)
+Update: Gnovm: native binding issue 859 (thehowl)
+Discussion on Contribuors DAO -- vision (moul)
+Discussion on stdlibs/stdshim issue 892 (piux2)
+Discussion on the infinite loop problem issue 835 (Antonio)
+Discussion on auto load and package sorting issue 763 (harryhov)
+Update: Gno SDK snapshot (moul)
+Next week, Gno.land Funding and Grants Program launches there will be more details coming in this repo
